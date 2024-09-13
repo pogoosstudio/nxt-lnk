@@ -1,24 +1,24 @@
 export default {
     openGraph: {
         type: 'website',
-        locale: 'en_IE',
-        title: 'next lnks by realvjy',
-        url: 'https://vjy.me',
+        locale: 'es_ES',
+        title: 'Redes Sociales | DioverDM',
+        url: 'https://links.dioverdm.com',
         description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk.',
-        locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
+        locale: 'es_ES',
+        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art, Diover, Rivero, Diover Rivero, DM, DioverDM',
         images: [
             {
                 width: 1200,
                 height: 630,
-                url: `https://vjy.me/preview.jpg`,
+                url: `https://links.dioverdm.com/preview.jpg`,
             },
         ],
-        site_name: 'realvjy',
+        site_name: 'dioverdm',
     },
     twitter: {
-        handle: '@realvjy',
-        site: 'vjy.me',
+        handle: '@dioverdm',
+        site: 'dioverdm.com',
         cardType: 'summary_large_image',
     },
 };
