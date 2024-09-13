@@ -3,19 +3,19 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        url: 'https://twitter.com/dioverdm',
         type: 'social',
         icon: '/twitter.svg',
         on: true
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/dioverdm',
         type: 'social',
         icon: '/insta.svg',
         on: true
     },
-    {
+    /*{
         title: 'Dribbble',
         url: 'https://dribbble.com/realvjy',
         type: 'social',
@@ -29,21 +29,21 @@ const webLinks = [
         icon: '/medium.svg',
         on: false
     },
-    {
+    /*{
         title: 'Github',
         url: 'https://github.com/realvjy',
         type: 'social',
         icon: '/github.svg',
         on: true
-    },
+    },*/
     {
         title: 'Youtube',
-        url: 'https://youtube.com/realvjy',
+        url: 'https://youtube.com/dioverdm',
         type: 'social',
         icon: '/youtube.svg',
         on: false
     },
-    {
+    /*{
         title: 'Figma',
         url: 'https://figma.com/@realvjy',
         type: 'social',
@@ -56,15 +56,15 @@ const webLinks = [
         type: 'social',
         icon: '/behance.svg',
         on: false
-    },
+    },*/
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/realvjy/',
+        url: 'https://www.linkedin.com/in/dioverdm/',
         type: 'social',
         icon: '/linkedin.svg',
         on: false
     },
-    {
+    /*{
         title: 'Mastodon',
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
@@ -105,9 +105,9 @@ const webLinks = [
         type: 'nft',
         icon: '/opensea.svg',
         on: false
-    },
+    },*/
     // Install section
-    {
+    /*{
         title: 'Use this template',
         url: 'https://github.com/realvjy/nxt-lnk/generate',
         type: 'install',
@@ -134,17 +134,17 @@ const webLinks = [
         type: 'install',
         icon: '/github-fill.svg',
         on: true
-    },
+    },*/
 
     {
-        title: 'Buy Me a Coffee',
-        url: 'https://www.buymeacoffee.com/realvjy',
+        title: 'Cómprame un café',
+        url: 'https://paypal.me/dioverdm',
         type: 'other',
         icon: '/bmc.png',
         on: true
     },
 
-    {
+    /*{
         title: 'link demo',
         url: 'https://vjy.me/lnk',
         type: 'other',
@@ -158,7 +158,7 @@ const webLinks = [
         type: 'other',
         icon: '/vjy.png',
         on: true
-    },
+    },*/
 ];
 
 export default webLinks;
